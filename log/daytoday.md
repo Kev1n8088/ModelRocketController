@@ -1,4 +1,5 @@
 **Day to Day Log**
+
 Jan 17 2021:  Designed the circuitry of the controller. Decided on the parts, added all to cart, and purchased. Awaiting delivery
 
 Jan 24: Working on the board design. Multiple candidates for the design available. Some have all the switches in one area, some split them up, etc. 
